@@ -41,6 +41,7 @@ Scope {
 
 			anchors.bottom: true
 			margins.bottom: screen.height / 5
+			exclusiveZone: 0
 
 			implicitWidth: 400
 			implicitHeight: 50
